@@ -4,7 +4,7 @@ A Python program to plot and compute various forms of inputted complex numbers i
 
 ### Prerequisites
 
-Requires PyGame, which can be installed with pip, the package installer for Python.
+Requires Pygame, which can be installed with pip, the package installer for Python.
 
 ```
 pip install pygame
