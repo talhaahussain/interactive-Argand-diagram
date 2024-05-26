@@ -17,3 +17,7 @@ To run, please use:
 ```
 python argand.py
 ```
+
+### Footnotes
+
+Not actively maintained.
